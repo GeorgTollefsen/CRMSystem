@@ -1,0 +1,1 @@
+insert into companies(name, company_id, street, postal_code, city, company_contact, phone, updatedat, createdat) values ("peach", "123456789", "Håkaleina", "3470", "Slemmestad", "Ida", "41177776", "123", "123")
